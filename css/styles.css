@@ -1,0 +1,10 @@
+ul{
+  display: none;
+}
+
+span{
+    font-weight: bold;
+    display: none;
+    color: red;
+    text-align: center;
+}
